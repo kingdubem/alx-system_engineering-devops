@@ -1,1 +1,1 @@
-This repository contains the solution to the 0x00-shell tasks
+This readme file will contain explanation of what each script does.
