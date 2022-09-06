@@ -1,3 +1,2 @@
 #!/bin/bash
-user="kingdubem"
-echo hello $user
+user="kingdubem" | echo hello $user
